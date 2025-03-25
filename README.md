@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ariel Sartorio</h1>
 <h3 align="left">Connect with me:</h3>
+
+🎯 **About Me**
+
+Hello, I'm Ariel Sartorio. I have experience in technical support and customer service, which has helped me develop strong problem-solving and communication skills.
+
+Currently, I am studying and working towards a career in Data Science.
+
+In my projects, I have developed skills in Python, MySQL, JavaScript, and process automation.
+
+💡 **What I'm Currently Learning:**
+- Machine Learning and Deep Learning
+- Data Engineering
+
 <p align="left">
-<a href="www.linkedin.com/in/ariel-sartorio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ariel-sartorio/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ariel-sartorio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ariel-sartorio/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
